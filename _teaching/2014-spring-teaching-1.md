@@ -8,9 +8,11 @@ date: 2020-09-01
 location: "Seattle, WA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a quarter-long mentoring program where each graduate student mentors an undergraduate on some topic of their own choice. 
 
-Heading 1
+I have mentored two students and the topics are shown below. 
+
+Statistical Illusion
 ======
 
 Heading 2
