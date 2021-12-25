@@ -62,5 +62,5 @@ https://faculty.fuqua.duke.edu/~jpayne/ba525_articles/Ssn3_2.pdf
 Week 7: Interpretation of statistics
 
 References: 
-[File](https://github.com/zhaoqil/zhaoqil.github.io/blob/master/_teaching/Interpretation-of-statistics.pdf)
+[Notes](https://github.com/zhaoqil/zhaoqil.github.io/blob/master/_teaching/Interpretation-of-statistics.pdf)
 
