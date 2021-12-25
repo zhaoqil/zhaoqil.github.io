@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Directed Reading Program"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Mentor program"
+permalink: /teaching/drp
+venue: "University of Washington, Department of Statistics"
+date: 2020-09-01
+location: "Seattle, WA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
