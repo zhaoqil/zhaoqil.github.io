@@ -28,36 +28,32 @@ _**Suppose you're on a game show, and you're given the choice of three doors: Be
 **_
 
 References: 
-https://statisticsbyjim.com/fun/monty-hall-problem/
-https://www.montyhallproblem.com/
+[Link1](https://statisticsbyjim.com/fun/monty-hall-problem/), [Link2](https://www.montyhallproblem.com/)
 
 Week 2: Friendship Paradox
 
 References: 
-https://en.wikipedia.org/wiki/Friendship_paradox
-https://www.jstor.org/stable/2781907?seq=10#metadata_info_tab_contents
+[Link1](https://en.wikipedia.org/wiki/Friendship_paradox), [Link2](https://www.jstor.org/stable/2781907?seq=10#metadata_info_tab_contents)
 
 Week 3: Simpson's Paradox
 
 References: 
-https://towardsdatascience.com/simpsons-paradox-how-to-prove-two-opposite-arguments-using-one-dataset-1c9c917f5ff9
+[Link](https://towardsdatascience.com/simpsons-paradox-how-to-prove-two-opposite-arguments-using-one-dataset-1c9c917f5ff9)
 
 Week 4: Gambler's Fallacy
 
 References: 
-https://effectiviology.com/gamblers-fallacy/
+[Link](https://effectiviology.com/gamblers-fallacy/)
 
 Week 5: Waiting time paradox
 
 References: 
-https://medium.com/cantors-paradise/the-waiting-paradox-an-intro-to-probability-distributions-97c0aedb8c1
+[Link](https://medium.com/cantors-paradise/the-waiting-paradox-an-intro-to-probability-distributions-97c0aedb8c1)
 
 Week 6: Certainty and possibility effects
 
 References: 
-http://naumof.blogspot.com/2012/12/certainty-and-possibility-effects.html
-https://en.wikipedia.org/wiki/Priority_heuristic
-https://faculty.fuqua.duke.edu/~jpayne/ba525_articles/Ssn3_2.pdf
+[Link1](http://naumof.blogspot.com/2012/12/certainty-and-possibility-effects.html), [Link2](https://en.wikipedia.org/wiki/Priority_heuristic), [Link3](https://faculty.fuqua.duke.edu/~jpayne/ba525_articles/Ssn3_2.pdf)
 
 Week 7: Interpretation of statistics
 
