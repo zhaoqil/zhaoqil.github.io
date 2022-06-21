@@ -8,7 +8,7 @@ date: 2020-09-01
 location: "Seattle, WA"
 ---
 
-This is a quarter-long mentoring program where each graduate student mentors an undergraduate on some topic of their own choice. 
+This is a quarter-long mentoring program where each graduate student mentors an undergraduate on some topic of their own choice. A detailed introduction to the program is shown below: https://spa-drp.github.io/. 
 
 I have mentored two students and the topics are shown below. 
 
@@ -62,4 +62,5 @@ https://faculty.fuqua.duke.edu/~jpayne/ba525_articles/Ssn3_2.pdf
 Week 7: Interpretation of statistics
 
 References: 
+[Notes](https://github.com/zhaoqil/zhaoqil.github.io/blob/master/_teaching/Interpretation-of-statistics.pdf)
 
