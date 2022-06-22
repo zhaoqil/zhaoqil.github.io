@@ -1,7 +1,7 @@
 ---
 title: 'A general introduction to multi-armed bandits'
 date: 2022-06-20
-permalink: /posts/2021/10/blog-post-1/
+permalink: /posts/2022/06/mab/
 ---
 
 Suppose you are in Vegas facing three lottery machines, each with a different probability of winning a prize: 
