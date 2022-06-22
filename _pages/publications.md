@@ -1,16 +1,16 @@
 ---
-layout: archive
 title: "Publications"
-permalink: /publications/
 author_profile: true
+redirect_from:
+  - /publications.html
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<!-- Leave two spaces at the end -->
+
+## Preprints
+
+**Exploration of Numerical Precision in Deep Neural Networks**  
+**Zhaoqi Li**, Yu Ma, Catalina Vajiac, Yunkai Zhang
+[PDF](https://arxiv.org/abs/1805.01078) &nbsp;
