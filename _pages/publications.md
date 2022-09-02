@@ -10,6 +10,13 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+## Conferences
+
+**Instance-optimal PAC Algorithms for Contextual Bandits**  
+**Zhaoqi Li**, Lillian Ratliff, Houssam Nassif, Kevin Jamieson, Lalit Jain
+[PDF](https://arxiv.org/abs/2207.02357) &nbsp;
+*Submitted to NeurIPS 2022*
+
 ## Preprints
 
 **Exploration of Numerical Precision in Deep Neural Networks**  
