@@ -36,7 +36,8 @@ Yibo Gao, <ins>Zhaoqi Li</ins>, Thuy-Duong Vuong, Lisa Yang  \
 
 **Optimal Exploration is no harder than Thompson Sampling**  \
 <ins>Zhaoqi Li</ins>, Kevin Jamieson, Lalit Jain  \
-*Submitted to NeurIPS 2023*
+[PDF](/files/posterior_sampling.pdf) &nbsp; \
+*Submitted*
 
 **Effective Adaptive Exploration of Prices and Promotions in Choice-Based Demand Models**  \
 Lalit Jain, <ins>Zhaoqi Li</ins>, Erfan Loghmani, Blake Mason, Hema Yoganarasimhan  \
@@ -44,7 +45,7 @@ Lalit Jain, <ins>Zhaoqi Li</ins>, Erfan Loghmani, Blake Mason, Hema Yoganarasimh
 *Submitted to Marketing Science*
 
 **Exploration of Numerical Precision in Deep Neural Networks**  \
-</ins>Zhaoqi Li</ins>, Yu Ma, Catalina Vajiac, Yunkai Zhang  \
+<ins>Zhaoqi Li</ins>, Yu Ma, Catalina Vajiac, Yunkai Zhang  \
 [PDF](https://arxiv.org/abs/1805.01078) &nbsp;
 
 ## In Progress
