@@ -74,11 +74,11 @@ analytics:
 author:
   name             : "Zhaoqi Li"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in statistics at the University of Washington"
+  bio              : "Ph.D. Candidate in statistics at the University of Washington"
   location         : 
   employer         : "University of Washington"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=4GWtG4IAAAAJ&hl=en&oi=ao"
   email            : "zli9@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,7 +94,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zhaoqi-li-929702125"
+  linkedin         : "zhaoqi-li-929702125"
   orcid            : 
   pinterest        :
   soundcloud       :
