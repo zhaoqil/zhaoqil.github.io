@@ -15,7 +15,7 @@ redirect_from:
 - *NeurIPS 2022*, New Orleans, US, December 2022 [Slides](/files/contextual_bandit_talk_NIPS.pdf) [Poster](/files/neurips_2022_CODA_poster.pdf)
 
 **Optimal Exploration is no harder than Thompson Sampling**  
-- *INFORMS 2023*, Phoenix, US, October 2023 [Slides](/files/posterior_sampling.pdf) &nbsp; 
+- *INFORMS 2023*, Phoenix, US, October 2023 [Slides](/files/PEPS_talk_INFORMS.pdf) &nbsp; 
 
 
 **Estimation and Inference of Optimal Policies** 
