@@ -36,8 +36,13 @@ Yibo Gao, <ins>Zhaoqi Li</ins>, Thuy-Duong Vuong, Lisa Yang  \
 
 **Optimal Exploration is no harder than Thompson Sampling**  \
 <ins>Zhaoqi Li</ins>, Kevin Jamieson, Lalit Jain  \
-[PDF](/files/posterior_sampling.pdf) &nbsp; \
-*Submitted*
+[PDF](https://arxiv.org/pdf/2310.06069.pdf) &nbsp; \
+*Submitted to AISTATS 2024*
+
+**Estimation of Subsidiary Performance Metrics under an Optimal Policy** \
+<ins>Zhaoqi Li</ins>, Houssam Nassif, Alex Luedtke \
+[PDF](https://arxiv.org/pdf/2401.04265.pdf) &nbsp; \
+*Submitted to Statistica Sinica*
 
 **Effective Adaptive Exploration of Prices and Promotions in Choice-Based Demand Models**  \
 Lalit Jain, <ins>Zhaoqi Li</ins>, Erfan Loghmani, Blake Mason, Hema Yoganarasimhan  \
@@ -48,9 +53,4 @@ Lalit Jain, <ins>Zhaoqi Li</ins>, Erfan Loghmani, Blake Mason, Hema Yoganarasimh
 <ins>Zhaoqi Li</ins>, Yu Ma, Catalina Vajiac, Yunkai Zhang  \
 [PDF](https://arxiv.org/abs/1805.01078) &nbsp;
 
-## In Progress
-
-**Estimation of Subsidiary Performance Metrics under an Optimal Policy** \
-<ins>Zhaoqi Li</ins>, Alex Luedtke \
-*In Progress*
 
