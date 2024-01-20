@@ -12,6 +12,11 @@ redirect_from:
 
 ## Published
 
+**Optimal Exploration is no harder than Thompson Sampling**  \
+<ins>Zhaoqi Li</ins>, Kevin Jamieson, Lalit Jain  \
+[PDF](https://arxiv.org/pdf/2310.06069.pdf) &nbsp; \
+*To appear in AISTATS 2024*
+
 **Instance-optimal PAC Algorithms for Contextual Bandits**  \
 <ins>Zhaoqi Li</ins>, Lillian Ratliff, Houssam Nassif, Kevin Jamieson, Lalit Jain  \
 [PDF](https://arxiv.org/abs/2207.02357) &nbsp;  \
@@ -33,11 +38,6 @@ Yibo Gao, <ins>Zhaoqi Li</ins>, Thuy-Duong Vuong, Lisa Yang  \
 *The Electronic Journal of Combinatorics 2018*
 
 ## Submitted and preprints
-
-**Optimal Exploration is no harder than Thompson Sampling**  \
-<ins>Zhaoqi Li</ins>, Kevin Jamieson, Lalit Jain  \
-[PDF](https://arxiv.org/pdf/2310.06069.pdf) &nbsp; \
-*Submitted to AISTATS 2024*
 
 **Estimation of Subsidiary Performance Metrics under an Optimal Policy** \
 <ins>Zhaoqi Li</ins>, Houssam Nassif, Alex Luedtke \
