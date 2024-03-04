@@ -17,6 +17,11 @@ redirect_from:
 [PDF](https://arxiv.org/pdf/2310.06069.pdf) &nbsp; \
 *To appear in AISTATS 2024*
 
+**Effective Adaptive Exploration of Prices and Promotions in Choice-Based Demand Models**  \
+Lalit Jain, <ins>Zhaoqi Li</ins>, Erfan Loghmani, Blake Mason, Hema Yoganarasimhan  \
+[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438537) &nbsp;  \
+*To appear in Marketing Science*
+
 **Instance-optimal PAC Algorithms for Contextual Bandits**  \
 <ins>Zhaoqi Li</ins>, Lillian Ratliff, Houssam Nassif, Kevin Jamieson, Lalit Jain  \
 [PDF](https://arxiv.org/abs/2207.02357) &nbsp;  \
@@ -43,11 +48,6 @@ Yibo Gao, <ins>Zhaoqi Li</ins>, Thuy-Duong Vuong, Lisa Yang  \
 <ins>Zhaoqi Li</ins>, Houssam Nassif, Alex Luedtke \
 [PDF](https://arxiv.org/pdf/2401.04265.pdf) &nbsp; \
 *Submitted to Statistica Sinica*
-
-**Effective Adaptive Exploration of Prices and Promotions in Choice-Based Demand Models**  \
-Lalit Jain, <ins>Zhaoqi Li</ins>, Erfan Loghmani, Blake Mason, Hema Yoganarasimhan  \
-[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438537) &nbsp;  \
-*Submitted to Marketing Science*
 
 **Exploration of Numerical Precision in Deep Neural Networks**  \
 <ins>Zhaoqi Li</ins>, Yu Ma, Catalina Vajiac, Yunkai Zhang  \
