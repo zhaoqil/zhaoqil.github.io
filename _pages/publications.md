@@ -14,13 +14,13 @@ redirect_from:
 
 **Optimal Exploration is no harder than Thompson Sampling**  \
 <ins>Zhaoqi Li</ins>, Kevin Jamieson, Lalit Jain  \
-[PDF](https://arxiv.org/pdf/2310.06069.pdf) &nbsp; \
-*To appear in AISTATS 2024*
+[PDF](https://proceedings.mlr.press/v238/li24h/li24h.pdf) &nbsp; \
+*AISTATS 2024*
 
 **Effective Adaptive Exploration of Prices and Promotions in Choice-Based Demand Models**  \
 Lalit Jain, <ins>Zhaoqi Li</ins>, Erfan Loghmani, Blake Mason, Hema Yoganarasimhan  \
-[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438537) &nbsp;  \
-*To appear in Marketing Science*
+[PDF](https://pubsonline.informs.org/doi/full/10.1287/mksc.2023.0322) &nbsp;  \
+*Marketing Science 2024*
 
 **Instance-optimal PAC Algorithms for Contextual Bandits**  \
 <ins>Zhaoqi Li</ins>, Lillian Ratliff, Houssam Nassif, Kevin Jamieson, Lalit Jain  \
