@@ -16,6 +16,7 @@ redirect_from:
 
 **Optimal Exploration is no harder than Thompson Sampling**  
 - *INFORMS 2023*, Phoenix, US, October 2023 [Slides](/files/PEPS_talk_INFORMS.pdf) &nbsp; 
+- *AISTATS 2024*, Valencia, Spain, May 2024 [Poster](/files/PEPS_poster_final.pdf) &nbsp;
 
 
 **Estimation and Inference of Optimal Policies** 
