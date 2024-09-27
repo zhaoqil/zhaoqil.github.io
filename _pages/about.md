@@ -12,4 +12,4 @@ I am currently a postdoc in the Department of Computer Science at Stanford Unive
 
 My research centers on designing methods for sequential decision-making problems that are both provably optimal and practically effective. For example, I would like to develop algorithms to learn the optimal policy through adaptive data collection. More specifically, I'm working on bandits, policy learning for dependent data as well as designing adaptive algorithms for estimation. I'm also interested in applications to education, online advertising, healthcare and others. 
 
-Contact me at zli9 [at] uw [dot] edu. 
+Contact me at zli9 [at] stanford [dot] edu. 
