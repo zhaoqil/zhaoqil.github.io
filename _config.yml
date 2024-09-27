@@ -74,12 +74,12 @@ analytics:
 author:
   name             : "Zhaoqi Li"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate in statistics at the University of Washington"
+  bio              : "Postdoc in Computer Science at Stanford University"
   location         : 
-  employer         : "University of Washington"
+  employer         : "Stanford University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4GWtG4IAAAAJ&hl=en&oi=ao"
-  email            : "zli9@uw.edu"
+  email            : "zli9@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
