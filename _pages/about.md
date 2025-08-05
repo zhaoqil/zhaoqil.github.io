@@ -13,3 +13,5 @@ I am currently a postdoc in the Department of Computer Science at Stanford Unive
 My research broadly focuses on developing *simple and interpretable* methods for *optimal decision-making* across domains. I aim to methods that are both *provably optimal* and *practically effective*. More speficially, my work primarily falls in two key areas: optimal exploration in bandit problems and semiparametric efficient estimation, using tools from bandits, semiparametric efficiency, and causal inference. I am also interested in applications to education, online advertising, healthcare and others. 
 
 Contact me at zli9 [at] stanford [dot] edu. 
+
+**I am on the academic job market for Fall 2026.**
