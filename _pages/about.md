@@ -14,4 +14,4 @@ My research broadly focuses on developing *simple and interpretable* methods for
 
 Contact me at zli9 [at] stanford [dot] edu. 
 
-**I am on the academic job market for positions starting Fall 2026.**
+**I am on the job market for positions starting Fall 2026.**
