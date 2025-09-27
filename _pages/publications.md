@@ -57,6 +57,10 @@ Yibo Gao, <ins>Zhaoqi Li</ins>, Thuy-Duong Vuong, Lisa Yang  \
 Ishani Karmarkar, <ins>Zhaoqi Li</ins>, Emma Brunskill  \
 *Submitted to AISTATS*
 
+**Causal Gradient Boosting: Boosted Instrumental Variable Regression**  \
+Edvard Bakhitov, Amandeep Singh, <ins>Zhaoqi Li</ins>  \
+*Under major revision for JMLR*
+
 **Exploration of Numerical Precision in Deep Neural Networks**  \
 <ins>Zhaoqi Li</ins>, Yu Ma, Catalina Vajiac, Yunkai Zhang  \
 [PDF](https://arxiv.org/abs/1805.01078) &nbsp;
