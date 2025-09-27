@@ -12,6 +12,11 @@ redirect_from:
 
 ## Published
 
+**Estimation of Subsidiary Performance Metrics under an Optimal Policy** \
+<ins>Zhaoqi Li</ins>, Houssam Nassif, Alex Luedtke \
+[PDF](https://arxiv.org/pdf/2401.04265.pdf) &nbsp; \
+*Statistica Sinica 2025*
+
 **Optimal Exploration is no harder than Thompson Sampling**  \
 <ins>Zhaoqi Li</ins>, Kevin Jamieson, Lalit Jain  \
 [PDF](https://proceedings.mlr.press/v238/li24h/li24h.pdf) &nbsp; \
@@ -44,10 +49,13 @@ Yibo Gao, <ins>Zhaoqi Li</ins>, Thuy-Duong Vuong, Lisa Yang  \
 
 ## Submitted and preprints
 
-**Estimation of Subsidiary Performance Metrics under an Optimal Policy** \
-<ins>Zhaoqi Li</ins>, Houssam Nassif, Alex Luedtke \
-[PDF](https://arxiv.org/pdf/2401.04265.pdf) &nbsp; \
-*Submitted to Statistica Sinica*
+**A Statistical Test for the Benefits of Personalizing Interventions**  \
+<ins>Zhaoqi Li</ins>, Emma Brunskill  \
+*Submitted to Science*
+
+**Active Learning for Stochastic Contextual Linear Bandits**  \
+Ishani Karmarkar, <ins>Zhaoqi Li</ins>, Emma Brunskill  \
+*Submitted to AISTATS*
 
 **Exploration of Numerical Precision in Deep Neural Networks**  \
 <ins>Zhaoqi Li</ins>, Yu Ma, Catalina Vajiac, Yunkai Zhang  \
