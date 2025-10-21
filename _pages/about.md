@@ -15,3 +15,5 @@ My research broadly focuses on developing *simple and interpretable* methods for
 Contact me at zli9 [at] stanford [dot] edu. 
 
 **I am on the job market for this year. Please feel free to contact me with any opportunities!**
+
+I will be attending the 2025 INFORMS annual meeting in Atlanta, GA. My talk is during 1:55 PM - 2:05 PM, Monday, October 27, in Building B Level 4 B403.
