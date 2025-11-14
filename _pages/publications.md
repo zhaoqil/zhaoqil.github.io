@@ -47,17 +47,15 @@ Yibo Gao, <ins>Zhaoqi Li</ins>, Thuy-Duong Vuong, Lisa Yang  \
 [PDF](https://arxiv.org/pdf/1611.05320.pdf) &nbsp;  \
 *The Electronic Journal of Combinatorics 2018*
 
-## Under revision
+## Submitted and preprints
 
 **A Statistical Test for the Benefits of Personalizing Interventions**  \
 <ins>Zhaoqi Li</ins>, Emma Brunskill  \
-*Under revision for Science*
+*Under submission*
 
 **Causal Gradient Boosting: Boosted Instrumental Variable Regression**  \
 Edvard Bakhitov, Amandeep Singh, <ins>Zhaoqi Li</ins>  \
 *Under major revision for JMLR*
-
-## Submitted and preprints
 
 **Active Learning for Stochastic Contextual Linear Bandits**  \
 Ishani Karmarkar, <ins>Zhaoqi Li</ins>, Emma Brunskill  \
