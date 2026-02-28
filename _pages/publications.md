@@ -12,6 +12,11 @@ redirect_from:
 
 ## Published
 
+**Active Learning for Stochastic Contextual Linear Bandits** \
+Emma Brunskill, Ishani Karmarkar, <ins>Zhaoqi Li</ins> \
+[PDF](https://openreview.net/pdf?id=PmPO7b9npu) &nbsp; \
+*To appear in AISTATS 2026*
+
 **Estimation of Subsidiary Performance Metrics under an Optimal Policy** \
 <ins>Zhaoqi Li</ins>, Houssam Nassif, Alex Luedtke \
 [PDF](https://arxiv.org/pdf/2401.04265.pdf) &nbsp; \
@@ -56,10 +61,6 @@ Yibo Gao, <ins>Zhaoqi Li</ins>, Thuy-Duong Vuong, Lisa Yang  \
 **Causal Gradient Boosting: Boosted Instrumental Variable Regression**  \
 Edvard Bakhitov, Amandeep Singh, <ins>Zhaoqi Li</ins>  \
 *Under major revision for JMLR*
-
-**Active Learning for Stochastic Contextual Linear Bandits**  \
-Ishani Karmarkar, <ins>Zhaoqi Li</ins>, Emma Brunskill  \
-*Submitted to AISTATS*
 
 **Exploration of Numerical Precision in Deep Neural Networks**  \
 <ins>Zhaoqi Li</ins>, Yu Ma, Catalina Vajiac, Yunkai Zhang  \
