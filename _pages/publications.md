@@ -12,10 +12,14 @@ redirect_from:
 
 ## Published
 
+**A Statistical Test for the Benefits of Personalizing Interventions**  \
+<ins>Zhaoqi Li</ins>, Emma Brunskill  \
+*To appear in Science*
+
 **Active Learning for Stochastic Contextual Linear Bandits** \
 Emma Brunskill, Ishani Karmarkar, <ins>Zhaoqi Li</ins> \
 [PDF](https://openreview.net/pdf?id=PmPO7b9npu) &nbsp; \
-*To appear in AISTATS 2026*
+*AISTATS 2026*
 
 **Estimation of Subsidiary Performance Metrics under an Optimal Policy** \
 <ins>Zhaoqi Li</ins>, Houssam Nassif, Alex Luedtke \
@@ -53,10 +57,6 @@ Yibo Gao, <ins>Zhaoqi Li</ins>, Thuy-Duong Vuong, Lisa Yang  \
 *The Electronic Journal of Combinatorics 2018*
 
 ## Submitted and preprints
-
-**A Statistical Test for the Benefits of Personalizing Interventions**  \
-<ins>Zhaoqi Li</ins>, Emma Brunskill  \
-*Under submission*
 
 **Causal Gradient Boosting: Boosted Instrumental Variable Regression**  \
 Edvard Bakhitov, Amandeep Singh, <ins>Zhaoqi Li</ins>  \
