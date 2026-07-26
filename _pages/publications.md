@@ -14,7 +14,8 @@ redirect_from:
 
 **A Statistical Test for the Benefits of Personalizing Interventions**  \
 <ins>Zhaoqi Li</ins>, Emma Brunskill  \
-*To appear in Science*
+[PDF](https://www.science.org/doi/10.1126/science.aeb9506) &nbsp; \
+*Science 2026*
 
 **Active Learning for Stochastic Contextual Linear Bandits** \
 Emma Brunskill, Ishani Karmarkar, <ins>Zhaoqi Li</ins> \
